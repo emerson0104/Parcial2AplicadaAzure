@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FAQUIApp", "FAQUIApp\FAQUIApp.csproj", "{5C789260-B6F6-4A70-82A4-503E14FA6B95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcialAzure2", "ParcialAzure2\ParcialAzure2.csproj", "{184A86F3-171D-4078-921B-7A008FAC368C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C789260-B6F6-4A70-82A4-503E14FA6B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C789260-B6F6-4A70-82A4-503E14FA6B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C789260-B6F6-4A70-82A4-503E14FA6B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C789260-B6F6-4A70-82A4-503E14FA6B95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{184A86F3-171D-4078-921B-7A008FAC368C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{184A86F3-171D-4078-921B-7A008FAC368C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{184A86F3-171D-4078-921B-7A008FAC368C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{184A86F3-171D-4078-921B-7A008FAC368C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15BF044A-7911-4115-A938-6363F24422C6}
+	EndGlobalSection
+EndGlobal
